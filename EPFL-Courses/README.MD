@@ -4,7 +4,7 @@
   <thead>
     <tr style="text-align: center;">
       <th>Course</th>
-      <th>Credit</th>
+      <th width = 200>Credit</th>
     </tr>
   </thead>
   <tbody>
