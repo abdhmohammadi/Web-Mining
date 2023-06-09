@@ -10,7 +10,7 @@
   <tbody>
     <tr>
       <td>Introduction to database systems</td>
-      <td>4</td>
+      <td align='center'>4</td>
     </tr>
     <tr>
       <td>Introduction to operating systems</td>
