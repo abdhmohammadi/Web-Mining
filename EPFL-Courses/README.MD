@@ -1,4 +1,4 @@
-<div align=center dir=rtl><h2>Scrapping Computer Science courses from EPFL</h2><br/>https://edu.epfl.ch/studyplan/en/bachelor/computer-science/</div><br/>
+<div align=center dir=rtl><h2>Scrapping Computer Science courses from EPFL</h2><br/>https://edu.epfl.ch/studyplan/en/bachelor/computer-science/</div>
 <b>By: Abdullah Mohammadi<br/>abdhmohammady@gmail.com</b><br/><b>https://github.com/AbdhMohammadi</b><br/><b>June, 9, 2023</b><br/><br/>
 <table border="1" class="dataframe">
   <thead>
